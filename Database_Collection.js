@@ -1,2 +1,2 @@
 use("donationDB"); 
-db.createCollection("donations"); 
+db.createCollection("donations");
